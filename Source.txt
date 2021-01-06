@@ -8,5 +8,6 @@ void main()
 	cout << "Nhap so b= ";
 	cin >> b;
 	cout << "Tong cua a va b la: " << a + b;
+	cout << "Hieu cua a va b la: " << a - b;
 
 }
